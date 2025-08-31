@@ -17,13 +17,13 @@ O fluxo principal do app:
 ---
 ## Tecnologias e Linguagens Utilizadas  
 
-- **Python 3.10** – Linguagem principal para desenvolvimento do app.  
-- **Streamlit** – Criação da interface web interativa de forma ágil e escalável.  
-- **Requests + JSON** – Comunicação com a API de inferência, montagem e envio do payload.  
-- **Secrets (Streamlit Cloud)** – Armazenamento seguro de credenciais (API Key e endpoint).  
-- **Git + GitHub** – Versionamento, controle de branches e integração com pipeline de deploy.  
-- **CI/CD (Streamlit Cloud)** – Deploy contínuo da branch `main`, com build automático.  
-- **Pylint** – Garantia de qualidade e padronização do código.  
+- **Python 3.10** - Linguagem principal para desenvolvimento do app.  
+- **Streamlit** - Criação da interface web interativa de forma ágil e escalável.  
+- **Requests + JSON** - Comunicação com a API de inferência, montagem e envio do payload.  
+- **Secrets (Streamlit Cloud)** - Armazenamento seguro de credenciais (API Key e endpoint).  
+- **Git + GitHub** - Versionamento, controle de branches e integração com pipeline de deploy.  
+- **CI/CD (Streamlit Cloud)** - Deploy contínuo da branch `main`, com build automático.  
+- **Pylint** - Garantia de qualidade e padronização do código.  
 
 ### Competências Técnicas Demonstradas
 - Capacidade de integrar **frontend em Python** com uma **API em produção** em nuvem (AWS).  
